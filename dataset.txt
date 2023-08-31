@@ -1,0 +1,7 @@
+
+https://www.kaggle.com/datasets/himanshunakrani/student-study-hours
+
+
+Number of hours student studied and Marks they got.
+
+The data set contains two columns. that is the number of hours student studied and the marks they got
